@@ -1,9 +1,9 @@
 # Aquila Launcher - Релизы
 
-## 🎮 Последняя версия: v1.1.5
+## 🎮 Последняя версия: v1.1.6
 
 ### 📥 Скачивание
-- [Windows x64](https://github.com/Chronicles-of-Aquila/launcher-releases/releases/download/v1.1.3/Aquila-Launcher-Setup-1.1.3.exe)
+- [Windows x64](https://github.com/Chronicles-of-Aquila/launcher-releases/releases/download/v1.1.5/Aquila-Launcher-Setup-1.1.6.exe)
 
 ### 💻 Системные требования
 - Windows 10/11 (64-bit)
