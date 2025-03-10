@@ -3,7 +3,7 @@
 ## 🎮 Последняя версия: v1.1.0
 
 ### 📥 Скачивание
-- [Windows x64](https://github.com/Chronicles-of-Aquila/launcher-releases/releases/download/v1.1.0/Aquila-Launcher-Setup.exe)
+- [Windows x64](https://github.com/Chronicles-of-Aquila/launcher-releases/releases/download/v1.1.0/Aquila-Launcher-Setup-1.1.0.exe)
 
 ### 💻 Системные требования
 - Windows 10/11 (64-bit)
