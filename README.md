@@ -1,7 +1,7 @@
 # Aquila Launcher v2.0.5
 
 ## Скачать
-- [Windows](https://aquilarp.com/downloads/AquilaLauncher-Setup-2.0.5.exe)
+- [Windows](https://aquilarp.com/downloads/AquilaLauncher-Setup-2.0.7.exe)
 
 ## Изменения
 - Исправлена проблема с зависанием при загрузке ресурсов
