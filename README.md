@@ -1,11 +1,12 @@
-# Aquila Launcher v2.0.2
+# Aquila Launcher v2.0.3
 
-[Скачать для Windows x64 (installer)](https://aquilacraft.ru/launcher/Aquila%20Launcher%20Setup%202.0.2.exe)
+## Скачать лаунчер
+- [Windows](https://aquilarp.com/downloads/AquilaLauncher-Setup-2.0.3.exe)
 
-## 🎮 Последняя версия: v2.0.2
+## 🎮 Последняя версия: v2.0.3
 
 ### 📥 Скачивание
-- [Windows x64](https://github.com/Chronicles-of-Aquila/launcher-releases/releases/download/v2.0.2/Aquila.Launcher.Setup.2.0.2.exe)
+- [Windows x64](https://github.com/Chronicles-of-Aquila/launcher-releases/releases/download/v2.0.3/Aquila.Launcher.Setup.2.0.3.exe)
 
 ### 💻 Системные требования
 - Windows 10/11 (64-bit)
@@ -52,7 +53,7 @@
 ### 📜 Лицензия
 Copyright © 2024 Chronicles of Aquila. Все права защищены.
 
-### 🆕 Что нового в версии 2.0.2
+### 🆕 Что нового в версии 2.0.3
 - 🔄 Улучшен интерфейс загрузки ресурсов: сокращены длинные сообщения
 - 🔒 Добавлена блокировка кнопок во время запуска Minecraft для предотвращения ошибок
 - 🛡️ Улучшена защита от повторного запуска игры
@@ -64,4 +65,4 @@ Copyright © 2024 Chronicles of Aquila. Все права защищены.
 
 ## Скачать для Windows
 
-[Скачать установщик для Windows x64 (2.0.2)](https://github.com/Chronicles-of-Aquila/launcher-releases/releases/download/v2.0.2/Aquila.Launcher.Setup.2.0.2.exe) 
+[Скачать установщик для Windows x64 (2.0.3)](https://github.com/Chronicles-of-Aquila/launcher-releases/releases/download/v2.0.3/Aquila.Launcher.Setup.2.0.3.exe) 
