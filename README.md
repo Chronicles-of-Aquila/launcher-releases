@@ -1,7 +1,7 @@
 # Aquila Launcher v2.0.5
 
 ## Скачать
-- [Windows](https://aquilarp.com/downloads/AquilaLauncher-Setup-2.0.7.exe)
+- [Windows](https://aquilarp.com/downloads/AquilaLauncher-Setup-2.0.9.exe)
 
 ## Изменения
 - Исправлена проблема с зависанием при загрузке ресурсов
@@ -72,3 +72,21 @@ Copyright © 2024 Chronicles of Aquila. Все права защищены.
 ## Скачать для Windows
 
 [Скачать установщик для Windows x64 (2.0.5)](https://github.com/Chronicles-of-Aquila/launcher-releases/releases/download/v2.0.5/Aquila.Launcher.Setup.2.0.5.exe) 
+
+# Релизы Aquila Launcher
+
+## Последний релиз
+
+### v2.0.5
+- Исправлена проблема с отображением прогресс-бара при загрузке ресурсов
+- Улучшена обработка статуса загрузки
+- Исправлена проблема с отображением кнопки восстановления после распаковки ресурсов
+- Добавлена автоматическая проверка ресурсов после распаковки
+- Улучшена обработка закрытия Minecraft
+- Исправлена проблема с зависанием при загрузке шрифтов и изображений
+- Добавлен автоматический скрипт обновления версии
+
+[Скачать для Windows](https://aquilarp.com/downloads/AquilaLauncher-Setup-2.0.9.exe)
+
+### v2.0.4
+// ... existing code ... 
