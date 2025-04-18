@@ -1,4 +1,4 @@
-# Aquila Launcher v2.0.39
+# Aquila Launcher v2.0.40
 
 ## 📥 Скачать последнюю версию
 - [Windows](https://aquilarp.com/downloads/Aquila-Launcher-Setup-2.0.38.exe)
